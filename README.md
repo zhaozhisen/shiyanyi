@@ -1,1 +1,2 @@
-# shiyanyi
+#shiyanyi
+此文件为家庭收支系统需求规格说明书。
